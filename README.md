@@ -8,5 +8,7 @@ found in my QIIME_test_data repository.
  UNITE (ITS).  Dynamic (97-99%) files for full sequence and reduced to
 ITS1 or ITS2 only.
 
+I removed sequences from MAARJAM database which contained "N" characters.
+
 Works great for me, but use at your own risk.
 
